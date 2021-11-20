@@ -12,6 +12,6 @@ Github Statistics
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Tiktodz&theme=cobalt&&border_radius=20">
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="30px"> ❝𝐈'𝐦 𝐟𝐫𝐨𝐦 𝐈𝐧𝐝𝐨𝐧𝐞𝐬𝐢𝐚❞
 
 ![snake gif](https://github.com/iamLiquidX/iamLiquidX/raw/output/github-contribution-grid-snake.svg)
