@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="30px"> 128,252,318 views Premiered Jun 20, 2020 <img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="30px">
+<img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="30px"> 128,252,318 views Premiered Jun 20, 2020
 
 <table>
   <tr>
