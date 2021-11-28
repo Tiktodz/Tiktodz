@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="30px"> 128,252,318 views Premiered Jun 20, 2020
+
 
 <table>
   <tr>
@@ -7,7 +7,7 @@
   </tr>
 </table>
 
-[<p align="center">![github stats](https://github-readme-stats.vercel.app/api?username=Tiktodz&show_icons=true&include_all_commits=false&bg_color=90,FFCC00,BC3800&title_color=fff&text_color=fff&icon_color=fff&border_color=FFC800&&border_radius=20&count_private=true)</p>](https://github.com/Tiktodz)
+<img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="30px"> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> </code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code><p align="center">![github stats](https://github-stats-alpha.vercel.app/api/?username=Tiktodz&cc=FFC0CB&ic=000000&bc=000000tc=FFFFFF)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Tiktodz&theme=cobalt&&border_radius=20">
 
