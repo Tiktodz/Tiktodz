@@ -11,4 +11,4 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Tiktodz&theme=cobalt&&border_radius=20">
 
-![snake gif](https://github.com/iamLiquidX/iamLiquidX/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Tiktodz/Tiktodz/raw/output/github-contribution-grid-snake.svg)
