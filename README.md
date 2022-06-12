@@ -8,10 +8,11 @@
 </table>
 
 <p align="center"><img src="https://media2.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="60"></p>
-<p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></p>
 
 <p align='center'>
 <a href="https://t.me/Tiktodzs/">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=round" width="100" />
 
-![TIKTODZ](https://github-readme-stats.vercel.app/api?username=Tiktodz&show_icons=true&theme=dark)
+<p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tiktodz&show_icons=true&theme=dark"></p>
