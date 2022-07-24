@@ -10,7 +10,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tiktodz&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tiktodz&include_all_commits=true&show_icons=true&theme=dark&count_private=true&hide_border=true" />
 
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
