@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"></p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tiktodz&include_all_commits=true&show_icons=true&theme=grey&count_private=true&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tiktodz&include_all_commits=true&show_icons=true&theme=grey&count_private=true&hide_border=true" />
 <table>
   <tr>
     <td>You are visitor</td>
