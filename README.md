@@ -23,3 +23,5 @@
 
 
 <a href="https://saweria.co/tiktodz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/TKTDS)
+
+<a href="https://publishers.adsterra.com/referral/17Q2TN1XBD"><img alt="banner" src="https://landings-cdn.adsterratech.com/referralBanners/png/80%20x%2030%20px.png" /></a>
