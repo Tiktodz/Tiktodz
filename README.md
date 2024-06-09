@@ -6,6 +6,8 @@
     <td><img src="https://profile-counter.glitch.me/Tiktodz/count.svg" alt="vistor count" height="30" /></td>
   </tr>
 </table>
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/fakedotkit)
 <a href="https://sourceforge.net/projects/customromx00t/files/latest/download"><img alt="Download customromx00t" src="https://img.shields.io/sourceforge/dm/customromx00t.svg" ></a>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
