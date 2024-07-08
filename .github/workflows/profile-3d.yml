@@ -19,7 +19,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config user.email "ewprjkt@electrowizard.me"
+          git config user.email "dotkit@electrowizard.me"
           git config user.name fakedotkit
           # Gerrit Code Review Change-id:)
           curl -Lo .git/hooks/commit-msg https://gerrit-review.googlesource.com/tools/hooks/commit-msg
