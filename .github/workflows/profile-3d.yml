@@ -12,19 +12,19 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config user.email "ewprjkt@proton.me"
+          git config user.email "ewprjkt@electrowizard.me"
           git config user.name fakedotkit
           # Gerrit Code Review Change-id:)
           curl -Lo .git/hooks/commit-msg https://gerrit-review.googlesource.com/tools/hooks/commit-msg
           chmod u+x .git/hooks/commit-msg
           # Force the build to succeed, even if no files were changed
           git add -A .
-          git commit -m "Job: generate-github-profile-3d-contrib"
+          git commit -m "Job: generate-github-profile-3d-contrib" --signoff
           git push
